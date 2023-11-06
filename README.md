@@ -47,29 +47,28 @@ Once the project is set up, you can use it as follows:
 ## Gallery
 
 ### Model Scroller Gallery
-![Model Scroller Gallery](http://example.com/path-to-your-image/model-scroller.jpg)
+![Model Scroller Gallery](https://github.com/charmiiii02/seawind_internship/blob/main/Screenshot%20(6).png)
 
 ### Popular Models Section
-![Popular Models](http://example.com/path-to-your-image/popular-models.jpg)
+![Popular Models](https://github.com/charmiiii02/seawind_internship/blob/main/Screenshot%20(7).png)
 
 ### Apply Section
-![Apply Section](http://example.com/path-to-your-image/apply-section.jpg)
+![Apply Section](https://github.com/charmiiii02/seawind_internship/blob/main/Screenshot%20(8).png)
 
 ### Model Categories Section
-![Model Categories](http://example.com/path-to-your-image/model-categories.jpg)
+![Model Categories](https://github.com/charmiiii02/seawind_internship/blob/main/Screenshot%20(9).png)
+![Model Categories](https://github.com/charmiiii02/seawind_internship/blob/main/Screenshot%20(10).png)
 
 ### Services Section
-![Services Section](http://example.com/path-to-your-image/services.jpg)
+![Services Section](https://github.com/charmiiii02/seawind_internship/blob/main/Screenshot%20(11).png)
 
 ### About Us Section
-![About Us](http://example.com/path-to-your-image/about-us.jpg)
+![About Us](https://github.com/charmiiii02/seawind_internship/blob/main/Screenshot%20(12).png)
 
 ### Footer Section
-#### Contact
-![Contact](http://example.com/path-to-your-image/contact.jpg)
-
 #### Map
-![Map](http://example.com/path-to-your-image/map.jpg)
+#### Contact
+![Contact](https://github.com/charmiiii02/seawind_internship/blob/main/Screenshot%20(13).png)
 
 ...
   
