@@ -1,0 +1,85 @@
+
+
+  /* NavigationBar.css */
+.navbar {
+    position: fixed; /* Make the navbar stick to the top */
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.5); /* semi-transparent black */
+    padding: 1rem;
+    z-index: 100; /* Ensure navbar is above other content */
+    height: 50px;
+  }
+  
+  .logo {
+    font-size: 1.5rem;
+    color:rgb(207, 20, 82);
+    font-weight: bolder;
+    
+
+  }
+  
+  .nav-items {
+    display: flex;
+    align-items: center;
+    /* Add right padding to ensure content doesn't touch the window border */
+    padding-right: 1rem; /* You can increase this value as needed */
+  }
+  
+  .nav-items a {
+    color: white;
+    text-decoration: none;
+    margin-left: 1.5rem;
+   font-family: Times New Roman, Georgia, Garamond, Palatino;
+  }
+  
+  .nav-items button {
+    margin-left: 1rem;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    background-color: #c23479; /* Adjusted background color */
+    border-color: #0f0e0c; /* Adjusted border color */
+    border: none;
+  }
+  
+  .login-btn {
+    background-color: #4CAF50; /* Green */
+    color: white;
+  }
+  
+  .register-btn {
+    background-color: #008CBA; /* Blue */
+    color: white;
+  }
+  
+  .nav-items a:hover{
+
+    color: #e4006e;
+  }
+  .nav-items button:hover {
+    background:#fefefe; /* Hover color change */
+    color:#e4006e ;
+  }
+  
+  .nav-items button {
+    margin-left: 1rem;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    background-color:#e4006e; /* Adjusted background color */
+    border: none; /* Adjusted border color */
+    font-family: sans-serif;
+
+}
+
+  
+  
+  /* Additional right margin for the last button (register button) */
+  .register-btn {
+    background-color: #008CBA; /* Blue */
+    color: white;
+    margin-right: 2rem; /* This adds space to the right of the register button */
+  }

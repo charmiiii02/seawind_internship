@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Arizonia&family=Roboto&display=swap");
+.about-us-text {
+  font-family: "Arizonia";
+  font-size: 2.5rem;
+  margin: 0px;
+  margin-top: 20px;
+  
+
+  
+}
+.about-us {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+ 
+}
+
+.underline {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  background-color: none;
+}
+
+.full-about-us {
+  background-image: url("../assets/Model\ 7.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 500px;
+}
+
+
+
+
+
+

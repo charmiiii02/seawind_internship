@@ -1,0 +1,33 @@
+/* PopularModelsHeader.css */
+.popular-models-header {
+    text-align: center;
+    margin: 16px;
+    height: 64px; /* Fixed height for the header */
+  }
+  
+  .popular-models-header h2 {
+
+  font-family: "Arizonia";
+  font-size: 2rem;
+  text-align: center;
+  margin: 0px;
+  justify-content: center;
+  margin-top: 20px;
+  background-color: white;
+  }
+  
+  /* .underline {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+  }
+   */
+
+.underline {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  background-color: white;
+}
